@@ -14,17 +14,15 @@ body {
   font-size: 50px;
   padding: 50px;
 }
+
 .step { 
   position: relative;
   width: 900px;
-  padding: 40px;
   margin: 20px auto;
 }
 
 .no-support-message {
 	display: none;
 }
-
-
 
 
