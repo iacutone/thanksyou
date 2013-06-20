@@ -1,0 +1,53 @@
+.no-support-message { 
+	display:none; 
+}
+
+.impress-not-supported .no-support-message { 
+	display:block; 
+}
+
+/* additional styles just to make things look a bit nicer */
+body { 
+	background: #FAFEFF; 
+  font-family: 'Questrial', sans-serif;	
+  color: #170C00; 
+  font-size: 50px;
+  padding: 50px;
+}
+.step { 
+  position: relative;
+  width: 900px;
+  padding: 40px;
+  margin: 20px auto;
+}
+
+.no-support-message {
+	display: none;
+}
+
+#step-2 {
+	padding-left: 1000px;
+}
+
+#step-3 {
+	padding-top: 1000px;
+}
+
+#step-4 {
+	padding-right: 1300px;
+	padding-bottom: 150px;
+	font-size: 25px;
+}
+
+#step-5 {
+	padding-left: 900px;
+	font-size: 30px;
+}
+
+#step-6 {
+	padding-bottom: 1500px;
+	padding-right: 1500px;
+}
+
+
+
